@@ -1,0 +1,12 @@
+c:\users\skiper\source\repos\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+c:\users\skiper\source\repos\project\project\obj\Debug\project.Form1.resources
+c:\users\skiper\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+c:\users\skiper\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+c:\users\skiper\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\skiper\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\skiper\source\repos\project\project\bin\Debug\project.exe
+C:\Users\skiper\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\skiper\source\repos\project\project\bin\Debug\MySql.Data.dll
+C:\Users\skiper\source\repos\project\project\bin\Debug\MySql.Data.xml
+C:\Users\skiper\source\repos\project\project\obj\Debug\project.exe
+C:\Users\skiper\source\repos\project\project\obj\Debug\project.pdb
