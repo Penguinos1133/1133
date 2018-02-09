@@ -7,3 +7,5 @@
 - git clone https://github.com/Penguinos1133/1133.git
 - Установить MySql
 - Импортировать на сервер файл "4"
+## Авторы
+- Андрей
